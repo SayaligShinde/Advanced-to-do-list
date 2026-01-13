@@ -56,6 +56,24 @@ Advanced-to-do-list/
 
 ---
 
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
+
+### 🏠 Dashboard (Light Mode)
+![Dashboard Light](screenshots/dashboard-light.png)
+
+### 🌙 Dashboard (Dark Mode)
+![Dashboard Dark](screenshots/dashboard-dark.png)
+
+### 📊 Task Analytics
+![Analytics Chart](screenshots/chart.png)
+
+### 📝 Task List & Actions
+![Task List](screenshots/tasks.png)
+
+
 ##⚙️ Installation & Setup
 
 1️⃣ Prerequisites
