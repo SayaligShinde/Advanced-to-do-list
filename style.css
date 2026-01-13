@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+}
+
+.container {
+    max-width: 400px;
+    margin: 30px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 6px;
+}
+
+input, select, button {
+    width: 100%;
+    margin: 8px 0;
+    padding: 8px;
+}
+
+li {
+    list-style: none;
+    background: #eee;
+    margin: 6px 0;
+    padding: 8px;
+    cursor: grab;
+}
+
+li.dragging {
+    opacity: 0.5;
+}
+
+.completed {
+    text-decoration: line-through;
+    opacity: 0.6;
+}
+
+/* Dark mode */
+.dark {
+    background: #121212;
+    color: white;
+}
+.dark .container {
+    background: #1e1e1e;
+}
+.dark li {
+    background: #2a2a2a;
+}
